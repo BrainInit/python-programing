@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge&logo=plotly)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-blueviolet?style=for-the-badge&logo=plotly)
-![GitHub Stars](https://img.shields.io/github/stars/TU_USUARIO/TU_REPOSITORIO?style=for-the-badge&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/TU_USUARIO/TU_REPOSITORIO?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/BrainInit/python-programing?style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/BrainInit/python-programing?style=for-the-badge&logo=github)
 
 ---
 
