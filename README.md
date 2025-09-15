@@ -25,7 +25,7 @@ Here you’ll find clean and structured examples of **static and interactive cha
 
 ---
 
-# Python Code 🎨🐍
+# Python Code 🎨
 
 ### 🌸 3D Visual Animations
 3D animations and plots using **Matplotlib** and **Numpy**.
