@@ -1,4 +1,4 @@
-# 📊 Visualización de Datos con Matplotlib y Plotly
+# 📊 Data Visualization with Matplotlib and Plotly
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge&logo=plotly)
@@ -8,22 +8,32 @@
 
 ---
 
-Este repositorio es mi espacio para **aprender, practicar y organizar código** sobre **visualización de datos en Python**.  
-Aquí encontrarás ejemplos claros y ordenados de **gráficos estáticos e interactivos**, desde lo más básico hasta visualizaciones avanzadas.  
+This repository is my personal space to **learn, practice, and organize code** focused on **data visualization in Python**.  
+Here you’ll find clean and structured examples of **static and interactive charts**, ranging from basic plots to advanced visualizations.  
 
-> 🎯 Objetivo: Convertirme en un crack creando gráficos profesionales y visualizaciones impactantes.
-
----
-
-## 📚 Tecnologías y librerías usadas
-
-- 🐍 **Python**: Lenguaje base para todo el repositorio.
-- 📈 **Matplotlib**: Visualizaciones estáticas y científicas.
-- 🌀 **Plotly**: Gráficos dinámicos e interactivos.
-- 🔧 **Pandas**: Manejo de datos para alimentar los gráficos.
-- 🔍 **Seaborn** (opcional): Estética avanzada para Matplotlib.
+> 🎯 Goal: Become skilled at creating professional charts and impactful visualizations.
 
 ---
 
-La estructura estará organizada por temas para facilitar el aprendizaje:
+## 📚 Technologies and Libraries Used
+
+- 🐍 **Python**: Core language for all projects.
+- 📈 **Matplotlib**: Static and scientific visualizations.
+- 🌀 **Plotly**: Dynamic and interactive charts.
+- 🔧 **Pandas**: Data handling and preprocessing.
+- 🔍 **Seaborn** (optional): Enhanced aesthetics for Matplotlib.
+
+---
+
+# Python Code 🎨🐍
+
+### 🌸 3D Visual Animations
+3D animations and plots using **Matplotlib** and **Numpy**.
+
+### 🐢 Turtle Drawings
+Creative drawings and patterns built with Python’s **turtle** library.
+
+---
+
+
 
